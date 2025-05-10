@@ -14,5 +14,6 @@ I’ve recently completed the **Regression and Classification** course by Andrew
 - ✅ Completed Labs & Assignments  
 - 📌 Key Notes and Concepts  
 
-### 📜 Certificate  
-[View Certificate](Certificate.jpg)
+<h3>📜 Certificate</h3>
+
+<img src="Certificate.jpg" alt="Certificate" style="max-width: 100%; height: auto; width: 500px;">
